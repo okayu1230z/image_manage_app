@@ -1,6 +1,6 @@
 # image_manage_app
 
-A new Flutter project.
+A simple flutter application for photo and camera management.
 
 ## Getting Started
 
